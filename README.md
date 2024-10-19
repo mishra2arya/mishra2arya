@@ -33,7 +33,7 @@ I'm an AI & Machine Learning enthusiast with a passion for exploring cutting-edg
 - [Cybersecurity Research](https://github.com/AryaMishra/cybersecurity-research) - My cybersecurity projects focusing on AI-driven security solutions and threat detection.
 
 ## 🎓 Education & Certifications
-- B.Tech in Computer Science, University of Delhi
+- B.Tech in Computer Science with AI & ML Specialization, Lovely Professional University
 - Google AI and Machine Learning Crash Course
 - TensorFlow Developer Certificate
 
@@ -42,5 +42,5 @@ I'm an AI & Machine Learning enthusiast with a passion for exploring cutting-edg
 - Interested in ethical hacking and cybersecurity.
 
 ## 📫 Contact
-- Email: [aryamishra@example.com](mailto:aryamishra@example.com)
+- Email: [mishra2arya@gmail.com](mailto:mishra2arya@gmail.com)
 - LinkedIn: [linkedin.com/in/arya-mishra-a4b274320](https://www.linkedin.com/in/arya-mishra-a4b274320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
