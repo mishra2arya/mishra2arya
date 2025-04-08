@@ -37,8 +37,6 @@ I'm passionate about unraveling the limitless possibilities of **Artificial Inte
 ## 🔧 Featured Projects
 
 - 🎓 **[AI & Machine Learning Portfolio](https://github.com/AryaMishra/ai-ml-portfolio)** - A showcase of my work in AI and ML, covering everything from **deep learning models** to **NLP** and **data analytics**. Let's decode the future with intelligent systems!
-  
-- 🔐 **[Cybersecurity Research](https://github.com/AryaMishra/cybersecurity-research)** - Exploring the intersection of AI and security, from predictive models to **AI-driven threat detection**. My passion for ethical hacking shines through in this collection of projects designed to strengthen security systems.
 
 ---
 
@@ -46,14 +44,12 @@ I'm passionate about unraveling the limitless possibilities of **Artificial Inte
 
 - **B.Tech in Computer Science** with a specialization in **AI & ML** - Lovely Professional University 🏫
 - **Google AI & Machine Learning Crash Course** 🎓
-- **TensorFlow Developer Certificate** 🏅
 
 ---
 
 ## 🎯 Beyond Work: My Hobbies & Interests
 
 When I'm not working on AI models or analyzing data, you can find me:
-- 🐾 Exploring ethical hacking and cybersecurity challenges.
 - 🧠 Immersed in AI research, from **natural language processing** to **computer vision**.
 - 📖 Learning and experimenting with cutting-edge technologies that push the boundaries of what's possible.
 
