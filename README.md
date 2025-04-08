@@ -2,7 +2,7 @@
 
 ✨ **AI & ML Enthusiast | Cybersecurity Explorer | Tech Innovator** ✨
 
-I'm passionate about unraveling the limitless possibilities of **Artificial Intelligence** and **Machine Learning** to solve complex real-world problems. With a solid foundation in data science, I am on a journey to merge the worlds of AI, cybersecurity, and tech innovation to create impactful solutions that drive future technologies forward.
+I'm passionate about unraveling the limitless possibilities of **Artificial Intelligence** and **Machine Learning** to solve complex real-world problems. I am on a journey to merge the worlds of AI and tech innovation to create impactful solutions that drive future technologies forward.
 
 ---
 
