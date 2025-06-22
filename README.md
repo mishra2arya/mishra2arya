@@ -1,6 +1,6 @@
 # Hello, I'm Arya Mishra! 👋
 
-✨ **AI & ML Enthusiast | Cybersecurity Explorer | Tech Innovator** ✨
+✨ **AI & ML Enthusiast | Tech Innovator** ✨
 
 I'm passionate about unraveling the limitless possibilities of **Artificial Intelligence** and **Machine Learning** to solve complex real-world problems. I am on a journey to merge the worlds of AI and tech innovation to create impactful solutions that drive future technologies forward.
 
@@ -11,7 +11,8 @@ I'm passionate about unraveling the limitless possibilities of **Artificial Inte
 ### 🌐 Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 ### 🛠️ Tools & Frameworks:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -59,7 +60,7 @@ When I'm not working on AI models or analyzing data, you can find me:
 
 Let's connect and collaborate! I'm always open to exciting conversations around AI, ML, and tech:
 
-- 📧 Email: [mishra2arya@gmail.com](mailto:mishra2arya@gmail.com)
+- 📧 Email: [mishra.arya@proton.me](mailto:mishra.arya@proton.me)
 - 🔗 LinkedIn: [Arya Mishra](https://www.linkedin.com/in/arya-mishra-a4b274320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
