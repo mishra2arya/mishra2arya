@@ -5,7 +5,6 @@
 I'm passionate about unraveling the limitless possibilities of **Artificial Intelligence** and **Machine Learning** to solve complex real-world problems. I am on a journey to merge the worlds of AI and tech innovation to create impactful solutions that drive future technologies forward.
 
 ---
-
 ## 🚀 Skills & Technologies
 
 ### 🌐 Languages:
@@ -57,9 +56,7 @@ When I'm not working on AI models or analyzing data, you can find me:
 ---
 
 ## 📫 How to Reach Me
-
 Let's connect and collaborate! I'm always open to exciting conversations around AI, ML, and tech:
-
 - 📧 Email: [mishra.arya@proton.me](mailto:mishra.arya@proton.me)
 - 🔗 LinkedIn: [Arya Mishra](https://www.linkedin.com/in/arya-mishra-a4b274320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
